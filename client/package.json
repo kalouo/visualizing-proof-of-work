@@ -14,7 +14,7 @@
     "heroku-postbuild": "yarn build"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuetify": "^1.5.3"
